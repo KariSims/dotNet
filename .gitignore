@@ -1,0 +1,12 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/SimsPhoneword/SimsPhoneword/bin
+/SimsPhoneword/SimsPhoneword/obj
+
+# IDEs and editors
+.settings/
+*.sublime-workspace
+
+#.editorconfig
+/.editorconfig
