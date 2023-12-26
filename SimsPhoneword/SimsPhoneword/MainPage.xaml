@@ -3,6 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SimsPhoneword.MainPage">
     <VerticalStackLayout Spacing="15" Padding="20">
+        <Label Text = "App de conversion de numéro de téléphone"
+               FontAttributes="Bold,Italic"
+               HorizontalTextAlignment="Center"
+               FontSize ="24"/>
         <Label Text = "Enter a Phoneword"
                FontSize ="20"/>
         <Entry x:Name = "PhoneNumberText"

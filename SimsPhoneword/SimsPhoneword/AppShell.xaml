@@ -8,8 +8,7 @@
     Title="SimsPhoneword">
 
     <ShellContent
-        Title="Home"
+        Title="Prince SIMBA Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
-
 </Shell>
